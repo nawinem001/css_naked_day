@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
