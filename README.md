@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Remove unused variables (#8511)
