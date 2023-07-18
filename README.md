@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
