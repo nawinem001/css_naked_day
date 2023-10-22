@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix TypeError in check_cfg() (#9245)
