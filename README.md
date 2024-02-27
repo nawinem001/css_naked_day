@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+ultralytics 8.1.33 fix HUB model checks (#9153)
