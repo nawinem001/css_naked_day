@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Optimize function calls to method calls (#8507)
