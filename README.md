@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add integrations/gradio Docs page (#7935)
