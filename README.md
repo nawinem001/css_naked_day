@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
