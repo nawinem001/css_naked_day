@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
