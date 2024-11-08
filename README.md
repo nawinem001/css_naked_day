@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add new YOLOv8 OBB model metrics (#7379)
